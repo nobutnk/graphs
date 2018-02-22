@@ -12,3 +12,5 @@ python3 setup.py sdist
 ```
 python3 modulename/main.py
 ```
+
+![サンプル画像](test1.png)
